@@ -578,8 +578,7 @@ object-fit: cover;
   font-weight: 700;
 }
 
-
-/* .userSection{
+ .userSection{
   position: absolute;
   top: 8rem;
   right: 10px;
@@ -606,7 +605,7 @@ object-fit: cover;
   border: 2px solid var(--orange);
 
 }
- */
+ 
 
 
 
